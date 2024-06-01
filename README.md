@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Saxena</h1>
 <h3 align="center">I am passionate about AI/ML, Cloud, and Engineering Management / Technical Program Management.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysaxena" alt="ysaxena" /></a> </p>
 
 - 💬 Ask me about **Engineering Management / Technical Program Management and Managing Complex Systems.**
 
